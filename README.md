@@ -1,4 +1,4 @@
-# 🌇 Sundown Studio Landing Page Clone
+# 🌇 Sundown Studio Landing Page 
 
 A fully responsive and animated landing page inspired by **Sundown Studio**. This project was one of the first milestones in my **Frontend Development journey**, helping me explore layout design, animations, responsiveness, and interaction patterns.
 
